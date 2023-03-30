@@ -1,0 +1,39 @@
+
+* {
+    box-sizing: border-box; 
+  }
+#columna_izquierda, #imagen {
+    background-color: #ffcc99;
+    padding: 30px 15px 15px 20px;
+  }
+
+#encabezado {
+    background-color: #ffe4cc;
+    padding: 30px 15px 15px 20px;
+  }
+#caja_info {
+    padding: 30px 15px 15px 20px;
+  }
+h1, h3, #datos_personales, #presentacion, .info {
+  font-family:"Roboto Condensed";
+}
+
+.boton {
+  width: 100%;
+  border:1px solid ;
+  font-size: 23px;
+  color: wheat;
+  background-color: rgb(212, 100, 59);
+  margin-top: 20px;
+  border-radius: 12px;
+  font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+}
+.esconder {
+  display: none;
+}
+.mostrar {
+  display: block;
+}
+.text-center {
+  font-family: 'Shantell Sans', cursive;
+}
